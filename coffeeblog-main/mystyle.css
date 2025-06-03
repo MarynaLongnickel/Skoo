@@ -1,0 +1,29 @@
+
+/* globals */
+body {
+    font-family: arial;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* utilities */
+.btn {
+
+}
+
+/* header */
+
+
+.primary-header {
+    background-image: url(img/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    color: white;
+    text-align: center;
+}  
